@@ -1,0 +1,6 @@
+@SplitHub.Api_HostAddress = http://localhost:5055
+
+GET {{SplitHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
